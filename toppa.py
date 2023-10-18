@@ -1,3 +1,5 @@
+#https://はデフォルトで付けてるので入力しないで下さい。　
+
 import requests;import pprint;import json
 
 a = input("url:")

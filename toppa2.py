@@ -1,6 +1,6 @@
 import requests;import pprint;import json
 
-a = input("url:"),b = input('cookie name:'),c = ('cookie value:')
+a = input("url:"),b = input('cookie name:'),c = input('cookie value:')
 k = "'"+b+"'"+":"+"'"+c+"'"
 cookie = k
 url = str(a)
